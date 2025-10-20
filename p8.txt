@@ -1,0 +1,50 @@
+Planets Motions for the 1,6,11,16,21
+and 26 Days in each Month, 1746.
+
+JANUARY 
+Days
+1 22 15 7 24 2 2
+6 28 15 8 28 8
+11.  15 9.   15 21
+16 8 15 10 6 21 18
+21 13 15 11 14  26
+26 18 15 11 14  26
+
+FEBRUARY 
+Days 
+1 24 16 12 18 12 28
+6 29 15 12 26 23 12
+11. 15 12 26 23 12
+21 14 14 13 4 6 26
+26 19 14 14 8 12 
+
+MARCH 
+Days 
+
+APRIL 
+Days
+
+
+MAY 
+Days 
+
+JUNE 
+Days 
+
+JULY 
+Days 
+
+AUGUST 
+Days 
+
+SEPTEMBER 
+Days
+
+OCTOBER 
+Days 
+
+NOVEMBER 
+Days 
+
+DECEMBER
+Days
